@@ -2,7 +2,7 @@
 //  main.cpp
 //  Science Project Calculator
 //
-//  Created by Gavin Ryderon 2/23/16.
+//  Created by Gavin Ryder on 2/23/16.
 //  Copyright © 2016 Gavin Ryder. All rights reserved.
 //
 
